@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am Murad 🙋‍♂️
+
+# Here is my website:
+[huseynli.dev](huseynli.dev)
 
 <!--
 **mhuseynli/mhuseynli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +19,3 @@ Here are some ideas to get you started:
 -->
 
 ![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mhuseynli)
-
