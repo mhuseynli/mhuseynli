@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![codersrank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mhuseynli)
+```html
+<codersrank-summary username="mhuseynli"></codersrank-summary>
+```
