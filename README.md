@@ -1,6 +1,6 @@
 ## Hi, I am Murad 🙋‍♂️
 
-### Vue.js 💚 Developer
+### Vue.js Developer
 
 *Here is my website:*
 [huseynli.dev](huseynli.dev)
