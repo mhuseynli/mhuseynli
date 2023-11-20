@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Image](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mhuseynli)
-
 
